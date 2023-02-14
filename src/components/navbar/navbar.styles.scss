@@ -1,0 +1,227 @@
+// #navbarSupportedContent {
+//   display: flex; 
+//   position: absolute;
+//   width: 54px;
+//   height: 25px;
+//   left: 370px;
+//   top: 43px;
+//   font-family: 'Gilroy-Bold';
+//   font-size: 20px;
+//   line-height: 23px;
+//   color: #1E1D23;
+// }
+
+.collapse-navbar-collapse {
+  font-size: 20px;
+  display: flex;
+  position: absolute;
+  width: 54px;
+  height: 25px;
+  left: 370px;
+  top: 28px;
+  font-family: "Gilroy-Bold";
+  line-height: 23px;
+  // color: red;
+}
+
+
+
+.logo {
+  position: absolute;
+  width: 172.34px;
+  height: 45px;
+  left: 70px;
+  top: 28px;
+}
+
+.nav-item {
+  padding-left: 20px;
+  // left: 100px;
+}
+
+.menu {
+  position: absolute;
+  width: 218px;
+  height: 59px;
+  left: 600px;
+  top: 700px;
+  font-family: 'Gilroy-Bold';
+  font-size: 48px;
+  line-height: 56px;    
+  color: #000000;
+}
+
+.size {
+  display: flex;
+  width: 1342px;
+  position: absolute;
+  top: 100px;
+}
+
+.pizza {
+  position: absolute;
+  width: 113px;
+  height: 66px;
+  left: 100px;
+  top: 790px;
+}
+
+.pizza-text{
+  position: absolute;
+  width: 57px;
+  height: 30px;
+  left: 20px;
+  top: 70px;
+  font-family: 'Gilroy-Bold';
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #FBBA00;
+}
+
+.sandwich {
+  position: absolute;
+  width: 110px;
+  height: 116px;
+  left: 240px;
+  top: 790px;
+}
+
+.sandwich-text {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: 5px;
+  top: 70px;
+  font-family: 'Gilroy-Bold';
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #1E1D23;
+}
+
+.Burgers {
+  position: absolute;
+  width: 110px;
+  height: 116px;
+  left: 380px;
+  top: 790px;
+}
+
+.Burgers-text {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: -5px;
+  top: 70px;
+  font-family: 'Gilroy-Bold';
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #1E1D23
+}
+
+.Appetizers{
+  position: absolute;
+  width: 110px;
+  height: 116px;
+  left: 520px;
+  top: 790px;
+}
+
+.Appetizers-text {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: 15px;
+  top: 70px;
+  font-family: 'Gilroy-Bold';
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #1E1D23
+}
+
+.Sea-Food {
+  position: absolute;
+  width: 110px;
+  height: 116px;
+  left: 700px;
+  top: 790px;
+}
+
+.Sea-Food-text {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: 15px;
+  top: 70px;
+  font-family: 'Gilroy-Bold';
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #1E1D23
+}
+
+.Japenese{
+  position: absolute;
+  width: 110px;
+  height: 116px;
+  left: 880px;
+  top: 790px;
+}
+
+.Japenese-text {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: 15px;
+  top: 70px;
+  font-family: 'Gilroy-Bold';
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #1E1D23
+}
+
+.Rice-Noodles{
+  position: absolute;
+  width: 110px;
+  height: 116px;
+  left: 1080px;
+  top: 790px;
+}
+
+.Rice-Noodles-text {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: 5px;
+  top: 70px;
+  font-family: 'Gilroy-Bold';
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #1E1D23
+}
+
+.Drinks{
+  position: absolute;
+  width: 110px;
+  height: 116px;
+  left: 1250px;
+  top: 790px;
+}
+
+.Drinks-text {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: -15px;
+  top: 70px;
+  font-family: 'Gilroy-Bold';
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #1E1D23
+}

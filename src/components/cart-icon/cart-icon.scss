@@ -1,0 +1,27 @@
+.shopping {
+    display: flex;
+    position: absolute;
+    width: 24px;
+height: 24px;
+left: 1230px;
+top: 37px;
+
+}
+
+.cart-badge {
+    position: absolute;
+width: 7px;
+height: 15px;
+left: 1250px;
+top: 30px;
+font-family: 'Gilroy-Bold';
+font-size: 15px;
+font-weight: 500;
+display: flex;
+align-items: center;
+justify-content: center;
+// line-height: 14px;
+color: #1E1D23;
+background: #FBBA00;
+border-radius: 50%;
+}
